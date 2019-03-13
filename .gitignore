@@ -3,7 +3,6 @@
 .exercism
 **/.gradle
 **/build
-**/build.gradle
 
 
 # Log file
